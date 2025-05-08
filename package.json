@@ -1,0 +1,23 @@
+{
+  "name": "contacts",
+  "version": "1.0.0",
+  "description": "Week 1 and 2 assignment for CSE 341.",
+  "homepage": "https://github.com/BraxtonGoode/Contacts#readme",
+  "bugs": {
+    "url": "https://github.com/BraxtonGoode/Contacts/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BraxtonGoode/Contacts.git"
+  },
+  "license": "ISC",
+  "author": "Braxton Goode",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
