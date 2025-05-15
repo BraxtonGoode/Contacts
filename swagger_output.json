@@ -5,9 +5,9 @@
     "description": "API documentation for my application",
     "version": "1.0.0"
   },
-  "host": "https://contacts-r4os.onrender.com",
   "basePath": "/",
   "schemes": [
+    "http",
     "https"
   ],
   "paths": {
